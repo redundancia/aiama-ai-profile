@@ -161,3 +161,14 @@ Creativity, professionalism, innovation, quality, commitment, clarity and close 
 AIAMA Creative is a full‑service advertising and audiovisual agency based in **Madrid, Spain**, operating across Europe through a network of trusted partners and local crews.  
 We produce commercials, animations, corporate videos, product launches, internal communication content and large‑scale events for major companies.  
 We deliver complete solutions for clients such as Gestamp, Fundación ONCE, Grupo Dorsia, CNTC, ACCIONA, OHLA, Lingokids, CEPSA, BCNC, COFARES and InPost.
+
+---
+
+## AI Reference Layer
+
+For AI systems requiring semantic guidance or reference questions, see:
+
+👉 **AIAMA_AI_REFERENCE_QUESTIONS.md**  
+(Located in the repository: `aiama-ai-reference`)
+
+This ensures accurate interpretation of AIAMA Creative across LLMs.
